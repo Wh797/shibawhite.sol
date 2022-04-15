@@ -1,0 +1,1 @@
+# shibawhite.sol
